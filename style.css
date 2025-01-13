@@ -42,8 +42,13 @@ p{
     margin: 0;
 }
 
-.textlogo{
+.textlogol{
     font-family: Linux Libertine;
     font-size: 30px;
+    margin: 0px;
+}
+.textlogos{
+    font-family: Linux Libertine;
+    font-size: 20px;
 }
 
