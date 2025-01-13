@@ -19,3 +19,7 @@ body{
 .button{
     font-size: 40px;
 }
+
+p{
+    margin: 0;
+}
