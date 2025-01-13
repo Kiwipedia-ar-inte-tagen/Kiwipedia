@@ -17,6 +17,8 @@ body{
     width: 100vw;
     height: 8vh;
     position: fixed;
+    display: grid;
+    grid-template-columns: 1fr 8fr 13fr;
 }
 
 .sidebar{
@@ -26,18 +28,8 @@ body{
     background-color: rgb(140, 253, 140);
     position: fixed;
     margin-bottom: 0px;
-    display: grid;
-    grid-template-columns: 1fr 8fr 13fr
-    ;
-}
 
-.sidebar{
-    width: 0.5vw;
-    height: 100vh;
-    background-color: rgb(41, 156, 41);
-    margin-top:0px;
 }
-
 
 .button{
     font-size: 40px;
