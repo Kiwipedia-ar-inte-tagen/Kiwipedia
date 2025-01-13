@@ -1,4 +1,12 @@
 
+
+
+@font-face {
+    font-family: Linux Libertine;
+    src: url(font/LinLibertine_R.ttf);
+}
+
+
 body{
     background-color: rgba(171, 239, 51, 0.25);
     margin: 0px;
@@ -9,7 +17,8 @@ body{
     height: 8vh;
     margin-bottom: 0px;
     display: grid;
-    grid-template-columns: 1fr 10fr;
+    grid-template-columns: 1fr 8fr 13fr
+    ;
 }
 
 .sidebar{
@@ -23,7 +32,12 @@ body{
 .button{
     font-size: 40px;
 }
-
 p{
     margin: 0;
 }
+
+.textlogo{
+    font-family: Linux Libertine;
+    font-size: 30px;
+}
+
