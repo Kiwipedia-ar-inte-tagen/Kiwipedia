@@ -37,8 +37,9 @@ body{
     font-size: 40px;
 }
 
-
-
+.button:hover{
+    color: rgb(73, 73, 73);
+}
 
 p{
     margin: 0;
