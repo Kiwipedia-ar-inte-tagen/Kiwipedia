@@ -45,13 +45,23 @@ p{
     margin: 0;
 }
 
+.textlogoflex{
+    display: flex;
+
+}
 .textlogol{
+    
     font-family: Linux Libertine;
-    font-size: 30px;
-    margin: 0px;
+    font-size: 35px;
+    margin-top: 1vh;
+    margin-left: 0;
 }
 .textlogos{
     font-family: Linux Libertine;
-    font-size: 20px;
+    font-size: 25px;
+    margin-top: 2.3vh;
 }
 
+.kiwi{
+    margin-right: 20px;
+}
