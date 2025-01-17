@@ -36,9 +36,9 @@ body{
 }
 
 .button{
-    margin-left: 16px;
-    margin-top: 10px;
-    font-size: 40px;
+    margin-left: 1.2vw;
+    margin-top: 1.1vh;
+    font-size: 4vh;
     border: none;
     background-color: transparent;
 }
