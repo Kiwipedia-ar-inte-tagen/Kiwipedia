@@ -31,6 +31,10 @@ body{
 
 }
 
+.sidebar-tabs button{
+    background-color: rgb(255, 255, 255);
+}
+
 .button{
     margin-left: 16px;
     margin-top: 10px;
