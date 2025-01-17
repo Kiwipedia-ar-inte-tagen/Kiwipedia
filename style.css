@@ -35,6 +35,8 @@ body{
     margin-left: 16px;
     margin-top: 10px;
     font-size: 40px;
+    border: none;
+    background-color: transparent;
 }
 
 .button:hover{
