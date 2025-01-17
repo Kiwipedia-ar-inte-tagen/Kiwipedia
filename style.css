@@ -18,7 +18,7 @@ body{
     height: 8vh;
     position: fixed;
     display: grid;
-    grid-template-columns: 1fr 8fr 13fr;
+    grid-template-columns: 9fr 13fr;
 }
 
 .sidebar{
@@ -53,8 +53,14 @@ p{
 
 .textlogoflex{
     display: flex;
-
+    text-align: center;
 }
+
+
+.logoi{
+    height: 10vh;
+}
+
 .textlogol{
     
     font-family: Linux Libertine;
