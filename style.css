@@ -19,7 +19,7 @@ body{
     top: 0;
     position: fixed;
     display: grid;
-    grid-template-columns: 9fr 13fr;
+    grid-template-columns: 9fr 10fr 9fr;
 }
 
 .sidebar{
@@ -91,7 +91,7 @@ p{
 
 .textlogoflex{
     display: flex;
-    text-align: center;
+    justify-content: center;
 }
 
 
