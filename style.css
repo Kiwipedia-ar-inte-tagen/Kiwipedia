@@ -61,7 +61,11 @@ h3{
     font-size: 15px;
 }
 
-.button{
+.sidebar-tabs button:hover{
+    background-color: rgb(170, 170, 170);
+}
+
+.TopBarButton{
     margin-left: 1.2vw;
     margin-top: 1.1vh;
     font-size: 4vh;
@@ -69,7 +73,7 @@ h3{
     background-color: transparent;
 }
 
-.button:hover{
+.TopBarButton:hover{
     color: rgb(73, 73, 73);
 }
 
