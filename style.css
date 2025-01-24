@@ -82,6 +82,18 @@ p{
     margin: 0;
 }
 
+.buttonDonate{
+    font-size: 2.5vh;
+    margin-top: 2vh;
+    border: black solid 2px;
+    background-color: rgba(73, 73, 73, 0.247);;
+    border-radius: 5px;
+}
+
+.buttonDonate:hover{
+    color: rgb(68, 68, 68);
+    background-color:rgba(238, 238, 238, 0.322);;
+}
 
 .content {
     margin-top: 8vh;
