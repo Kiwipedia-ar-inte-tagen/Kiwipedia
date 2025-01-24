@@ -13,20 +13,21 @@ body{
 }
 
 .topbar{
-    background-color: rgba(106, 56, 12, 0.538);
+    background-color: rgb(165, 146, 100);
     width: 100vw;
     height: 8vh;
+    top: 0;
     position: fixed;
     display: grid;
     grid-template-columns: 9fr 13fr;
 }
 
 .sidebar{
-    margin-top: 8vh;
+    
     width: 0.6vw;
     height: 100%;
     background-color: rgb(140, 253, 140);
-    position: fixed;
+ 
     margin-bottom: 0px;
     border-radius: 0px 0px 0px 20px;
 
@@ -75,6 +76,13 @@ h3{
 
 p{
     margin: 0;
+}
+
+
+.content {
+    margin-top: 8vh;
+    display: grid;
+    grid-template-columns: 1fr 7fr;
 }
 
 .textlogoflex{
