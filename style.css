@@ -57,9 +57,20 @@ h3{
     
 }
 h4{
+    
     font-family: sans-serif;
     font-weight: 25;
     margin: 0;
+}
+
+
+.rubriker{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.rubrik{
+    margin-left: 3vw;
 }
 
 .sidebar-tabs button{
