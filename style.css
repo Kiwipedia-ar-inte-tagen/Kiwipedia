@@ -172,6 +172,8 @@ p{
 
 .httpsMain{
     display: grid;
+    grid-template-rows: 50px 100px 200px;
+    grid-template-columns: 10fr 10fr;
 }
 
 .welcome{
