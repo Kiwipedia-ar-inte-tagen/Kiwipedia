@@ -39,8 +39,19 @@ body{
     border-bottom: 1px solid #000000;
 }
 
+.mainpageimages{
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+}
+.mainpageimages2{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
 
 
+.border{
+    border: 1px solid rgba(0, 0, 0, 0.225);
+}
 
 .sidebar-tabs{
     opacity: 0;
@@ -82,6 +93,14 @@ h4{
 
 .rubrik{
     margin-left: 3vw;
+}
+
+.yellow{
+    background-color: rgb(255, 254, 173);
+}
+
+.red{
+    background-color: rgb(255, 194, 171);
 }
 
 .sidebar-tabs button{
