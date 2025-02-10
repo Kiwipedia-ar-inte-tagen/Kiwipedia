@@ -105,21 +105,22 @@ h4{
 
 .sidebar-tabs button{
     background-color: rgb(255, 255, 255);
-    margin-top: 0.5vh;
     margin-left: 0.1vw;
-    margin-right: 0.1vw;
     padding-top: 7px;
     padding-bottom: 7px;
     font-size: 15px;
+    width: 100%;
 }
 
 .sidebar-tabs a{
-    margin-top: 0.5vh;
     margin-left: 0.1vw;
     margin-right: 0.1vw;
     padding-top: 7px;
     padding-bottom: 7px;
     font-size: 15px;
+    width: 100%;
+    text-decoration: none;
+    color: black;
 }
 
 .sidebar-tabs button:hover{
