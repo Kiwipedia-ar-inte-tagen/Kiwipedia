@@ -82,6 +82,28 @@ h4{
     margin: 0;
 }
 
+h5{
+    font-weight: lighter;
+    font-size: 35;
+    margin: 0px;
+    margin-left: 125px;
+    font-family: Linux Libertine;
+}
+
+article{
+    display: grid;
+    grid-template-columns: 3fr 2fr;
+
+
+}
+
+.article-text{
+    margin-left: 125px;
+    width: 30vw;
+}
+
+
+
 .logo-link{
     width:1vw;
 }
