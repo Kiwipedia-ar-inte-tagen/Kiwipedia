@@ -117,6 +117,15 @@ h4{
     font-size: 15px;
 }
 
+.sidebar-tabs a{
+    margin-top: 0.5vh;
+    margin-left: 0.1vw;
+    margin-right: 0.1vw;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    font-size: 15px;
+}
+
 .sidebar-tabs button:hover{
     background-color: rgb(170, 170, 170);
 }
