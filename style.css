@@ -90,16 +90,27 @@ h5{
     font-family: Linux Libertine;
 }
 
-article{
+.article{
     display: grid;
     grid-template-columns: 3fr 2fr;
+    margin-bottom: 30px;
 
+}
+
+.article2{
+    display: grid;
+    grid-template-columns: 2fr 3fr;
+    margin-bottom: 30px;
 
 }
 
 .article-text{
     margin-left: 125px;
     width: 30vw;
+}
+
+.article2-image{
+    margin-left: 145px;
 }
 
 
